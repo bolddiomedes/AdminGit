@@ -1,0 +1,195 @@
+﻿1. Acri T, TenHave TR, Chapman JC, Bogner HR, Gross R. Lack of association between retrospectively collected pharmacy refill data and electronic drug monitoring of antiretroviral adherence. AIDS Behav. 2010 Aug;14(4):748-54. Epub 2008 Dec 16. PMID: 19089608; PubMed Central PMCID: PMC2891597.
+
+
+2. Awasthi S, Lubinski JM, Friedman HM. Immunization with HSV-1 glycoprotein C prevents immune evasion from complement and enhances the efficacy of an HSV-1 glycoprotein D subunit vaccine. Vaccine. 2009 Nov 16;27(49):6845-53. Epub 2009 Sep 15. PMID: 19761834; PubMed Central PMCID: PMC2783579.
+
+
+3. Azzoni L, Foulkes AS, Firnhaber C, Yin X, Xiang ZQ, Li Y, Stevens W, Gross R,  Ertl HC, Sanne I, Montaner LJ. Antiretroviral therapy interruptions result in loss of protective humoral immunity to neoantigens in HIV-infected individuals. AIDS. 2012 Jul 17;26(11):1355-62. PMID: 22516873;  PMCID: PMC3548620.
+
+
+4. Bachhuber M, Bilker WB, Wang H, Chapman J, Gross R. Is antiretroviral therapy adherence substantially worse on weekends than weekdays? J Acquir Immune Defic Syndr. 2010 May 1;54(1):109-10. PMID: 20418726;  PMCID: PMC2879974.
+
+
+5. Ben-Haim Y, Dacso CC, Zetola NM. Info-gap management of public health Policy for TB with HIV-prevalence and epidemiological uncertainty. BMC Public Health. 2012 Dec 19;12:1091. PMID: 23249291;  PMCID: PMC3583706.
+
+
+6. Bisson GP, Molefi M, Bellamy S, Thakur R, Steenhoff A, Tamuhla N, Rantleru T,  Tsimako I, Gluckman S, Ravimohan S, Weissman D, Tebas P. Early versus delayed antiretroviral therapy and cerebrospinal fluid fungal clearance in adults with HIV and cryptococcal meningitis. Clin Infect Dis. 2013 Apr;56(8):1165-73. Epub 2013 Jan 29. PMID: 23362285.
+
+
+7. Blume J, Douglas SD, Evans DL. Immune suppression and immune activation in depression. Brain Behav Immun. 2011 Feb;25(2):221-9. Epub 2010 Oct 16. Review. PMID: 20955778;  PMCID: PMC3025086.
+
+
+8. Chahroudi A, Meeker T, Lawson B, Ratcliffe S, Else J, Silvestri G. Mother-to-infant transmission of simian immunodeficiency virus is rare in sooty mangabeys and is associated with low viremia. J Virol. 2011 Jun;85(12):5757-63.� Epub 2011 Mar 30. PMID: 21450815; PubMed Central PMCID: PMC3126302.
+
+
+9. Charlson ES, Bittinger K, Chen J, Diamond JM, Li H, Collman RG, Bushman FD. Assessing bacterial populations in the lung by replicate analysis of samples from the upper and lower respiratory tracts. PLoS One. 2012;7(9):e42786. Epub 2012 Sep 6. PMID: 22970118; PubMed Central PMCID: PMC3435383.
+
+
+10. Charlson ES, Chen J, Custers-Allen R, Bittinger K, Li H, Sinha R, Hwang J, Bushman FD, Collman RG. Disordered microbial communities in the upper respiratory tract of cigarette smokers. PLoS One. 2010 Dec 20;5(12):e15216. PMID: 21188149;  PMCID: PMC3004851.
+
+
+11. Chen J, Bittinger K, Charlson ES, Hoffmann C, Lewis J, Wu GD, Collman RG, Bushman FD, Li H. Associating microbiome composition with environmental covariates using generalized UniFrac distances. Bioinformatics. 2012 Aug 15;28(16):2106-13. Epub 2012 Jun 17. �PMID: 22711789;  PMCID: PMC3413390.
+
+
+12. Coleman CL, Jemmott L, Jemmott JB, Strumpf N, Ratcliffe S. Development of an  HIV risk reduction intervention for older seropositive African American men. AIDS Patient Care STDS. 2009 Aug;23(8):647-55. �PMID: 19591604.
+
+
+13. Decman V, Laidlaw BJ, Doering TA, Leng J, Ertl HC, Goldstein DR, Wherry EJ. Defective CD8 T cell responses in aged mice are due to quantitative and qualitative changes in virus-specific precursors. J Immunol. 2012 Feb 15;188(4):1933-41. Epub 2012 Jan 13. PMID:  22246631;  PMCID: PMC3320034.
+
+
+14. El-Bassel N, Jemmott JB 3rd, Landis JR, Pequegnat W, Wingood GM, Wyatt GE, Bellamy SL; National Institute of Mental Health Multisite HIV/STD Prevention Trial for African-American Couples Group. Intervention to influence behaviors linked to risk of chronic diseases: a multisite randomized controlled trial with  African-American HIV-serodiscordant heterosexual couples. Arch Intern Med. 2011 Apr 25;171(8):728-36. PMID: 21518939.
+
+
+15. Engram JC, Cervasi B, Borghans JA, Klatt NR, Gordon SN, Chahroudi A, Else JG, Mittler RS, Sodora DL, de Boer RJ, Brenchley JM, Silvestri G, Paiardini M. Lineage-specific T-cell reconstitution following in vivo CD4+ and CD8+ lymphocyte depletion in nonhuman primates. Blood. 2010 Aug 5;116(5):748-58. Epub 2010 May 18. PMID: 20484087; PubMed Central PMCID: PMC2918331.
+
+
+16. Engram JC, Dunham RM, Makedonas G, Vanderford TH, Sumpter B, Klatt NR, Ratcliffe SJ, Garg S, Paiardini M, McQuoid M, Altman JD, Staprans SI, Betts MR, Garber DA, Feinberg MB, Silvestri G. Vaccine-induced, simian immunodeficiency virus-specific CD8+ T cells reduce virus replication but do not protect from simian immunodeficiency virus disease progression. J Immunol. 2009 Jul 1;183(1):706-17. PMID: 19542473.
+
+
+17. Ferrari G, Korber B, Goonetilleke N, Liu MK, Turnbull EL, Salazar-Gonzalez JF, Hawkins N, Self S, Watson S, Betts MR, Gay C, McGhee K, Pellegrino P, Williams I, Tomaras GD, Haynes BF, Gray CM, Borrow P, Roederer M, McMichael AJ, Weinhold KJ. Relationship between functional profile of HIV-1 specific CD8 T cells and epitope variability with the selection of escape mutants in acute HIV-1 infection. PLoS Pathog. 2011 Feb 10;7(2):e1001273. PMID: 21347345;  PMCID: PMC3037354.
+
+
+18. Gekonge B, Giri MS, Kossenkov AV, Nebozyhn M, Yousef M, Mounzer K, Showe L, Montaner LJ. Constitutive gene expression in monocytes from chronic HIV-1 infection overlaps with acute Toll-like receptor induced monocyte activation profiles. PLoS One. 2012;7(7):e41153. Epub 2012 Jul 18. PMID: 22815948;  PMCID: PMC3399809.
+
+
+19. Gormley RH, Groft CM, Miller CJ, Kovarik CL. Digital squamous cell carcinoma  and association with diverse high-risk human papillomavirus types. J Am Acad Dermatol. 2011 May;64(5):981-5. Epub 2010 Jun 26. PMID: 20584560.
+
+
+20. Groleau V, Herold RA, Schall JI, Wagner JL, Dougherty KA, Zemel BS, Rutstein  RM, Stallings VA. Blood lead concentration is not altered by high-dose vitamin D  supplementation in children and young adults with HIV. J Pediatr Gastroenterol Nutr. 2013 Mar;56(3):316-9. PMID: 23059649.
+
+
+21. Gross R, Bellamy SL, Chapman J, Han X, O'Duor J, Palmer SC, Houts PS, Coyne JC, Strom BL. Managed problem solving for antiretroviral therapy adherence: a randomized trial. JAMA Intern Med. 2013 Feb 25;173(4):300-6. PMID: 23358784.
+
+
+22. Han JH, Crane HM, Bellamy SL, Frank I, Cardillo S, Bisson GP; Centers for AIDS Research Network of Integrated Clinical Systems (CNICS). HIV infection and glycemic response to newly initiated diabetic medical therapy. AIDS. 2012 Oct 23;26(16):2087-95. PMID: 22951636.
+
+
+23. Haney D, Quigley MF, Asher TE, Ambrozak DR, Gostick E, Price DA, Douek DC, Betts MR. Isolation of viable antigen-specific CD8+ T cells based on membrane-bound tumor necrosis factor (TNF)-α expression. J Immunol Methods. 2011  Jun 30;369(1-2):33-41. Epub 2011 Apr 8. �PMID: 21501617;  PMCID: PMC3116017.
+
+
+24. Haut LH, Ratcliffe S, Pinto AR, Ertl H. Effect of preexisting immunity to adenovirus on transgene product-specific genital T cell responses on vaccination  of mice with a homologous vector. J Infect Dis. 2011 Apr 15;203(8):1073-81. PMID: 21450997;  PMCID: PMC3107557.
+
+
+25. Hersperger AR, Migueles SA, Betts MR, Connors M. Qualitative features of the  HIV-specific CD8+ T-cell response associated with immunologic control. Curr Opin  HIV AIDS. 2011 May;6(3):169-73. �PMID: 21399496.
+
+
+26. Hersperger AR, Martin JN, Shin LY, Sheth PM, Kovacs CM, Cosma GL, Makedonas G, Pereyra F, Walker BD, Kaul R, Deeks SG, Betts MR. Increased HIV-specific CD8+  T-cell cytotoxic potential in HIV elite controllers is associated with T-bet expression. Blood. 2011 Apr 7;117(14):3799-808. Epub 2011 Feb 2. PMID: 21289310; PubMed Central PMCID: PMC3083297.
+
+
+27. Hersperger AR, Pereyra F, Nason M, Demers K, Sheth P, Shin LY, Kovacs CM, Rodriguez B, Sieg SF, Teixeira-Johnson L, Gudonis D, Goepfert PA, Lederman MM, Frank I, Makedonas G, Kaul R, Walker BD, Betts MR. Perforin expression directly ex vivo by HIV-specific CD8 T-cells is a correlate of HIV elite control. PLoS Pathog. 2010 May 27;6(5):e1000917. �PMID: 20523897;  PMCID: PMC2877741.
+
+
+28. Hutnick NA, Carnathan D, Demers K, Makedonas G, Ertl HC, Betts MR. Adenovirus-specific human T cells are pervasive, polyfunctional, and cross-reactive. Vaccine. 2010 Feb 23;28(8):1932-41. PMID: 20188249;  PMCID: PMC2832841.
+
+
+29. Hutnick NA, Carnathan DG, Dubey SA, Cox KS, Kierstead L, Makadonas G, Ratcliffe SJ, Lasaro MO, Robertson MN, Casimiro DR, Ertl HC, Betts MR. Vaccination with Ad5 vectors expands Ad5-specific CD8 T cells without altering memory phenotype or functionality. PLoS One. 2010 Dec 22;5(12):e14385. PMID: 21203546;  PMCID: PMC3008674.
+
+
+30. Hutnick NA, Carnathan DG, Dubey SA, Makedonas G, Cox KS, Kierstead L, Ratcliffe SJ, Robertson MN, Casimiro DR, Ertl HC, Betts MR. Baseline Ad5 serostatus does not predict Ad5 HIV vaccine-induced expansion of adenovirus-specific CD4+ T cells. Nat Med. 2009 Aug;15(8):876-8. Epub 2009 Jul 20. Erratum in: Nat Med. 2009 Nov;15(11):1333. Makedonas, George [added]. PMID: 19620962;  PMCID: PMC2723179.
+
+
+31. Isaacman-Beck J, Hermann EA, Yi Y, Ratcliffe SJ, Mulenga J, Allen S, Hunter E, Derdeyn CA, Collman RG. Heterosexual transmission of human immunodeficiency virus type 1 subtype C: Macrophage tropism, alternative coreceptor use, and the molecular anatomy of CCR5 utilization. J Virol. 2009 Aug;83(16):8208-20. Epub 2009 Jun 10. PMID: 19515785;  PMCID: PMC2715751.
+
+
+32. Jemmott JB 3rd, Jemmott LS, O'Leary A, Ngwane Z, Icard L, Bellamy S, Jones S, Landis JR, Heeren GA, Tyler JC, Makiwane MB. Cognitive-behavioural health-promotion intervention increases fruit and vegetable consumption and physical activity among South African adolescents: a cluster-randomised controlled trial. Psychol Health. 2011 Feb;26(2):167-85. PMID: 21318928.
+
+
+33. Kurupati R, Tuyishime S, Kossenkov AV, Sazanovich M, Haut LH, Lasaro MO, Ratcliffe SJ, Bosinger SE, Carnathan DG, Lewis M, Showe LC, Silvestri G, Ertl HC. Correlates of relative resistance against low-dose rectal simian immunodeficiency virus challenges in peripheral blood mononuclear cells of vaccinated rhesus macaques. J Leukoc Biol. 2013 Mar;93(3):437-48. Epub 2012 Dec 27. PMID: 23271702;  PMCID: PMC3579023.
+
+
+34. Lasaro MO, Sazanovich M, Giles-Davis W, Mrass P, Bunte RM, Sewell DA, Hussain SF, Fu YX, Weninger W, Paterson Y, Ertl HC. Active immunotherapy combined with blockade of a coinhibitory pathway achieves regression of large tumor masses in cancer-prone mice. Mol Ther. 2011 Sep;19(9):1727-36.�Epub 2011 May 17. PMID: 21587210;  PMCID: PMC3182366.
+
+
+35. Lasaro MO, Haut LH, Zhou X, Xiang Z, Zhou D, Li Y, Giles-Davis W, Li H, Engram JC, Dimenna LJ, Bian A, Sazanovich M, Parzych EM, Kurupati R, Small JC, Wu TL, Leskowitz RM, Klatt NR, Brenchley JM, Garber DA, Lewis M, Ratcliffe SJ, Betts MR, Silvestri G, Ertl HC. Vaccine-induced T cells provide partial protection against high-dose rectal SIVmac239 challenge of rhesus macaques. Mol Ther. 2011 Feb;19(2):417-26. Epub 2010 Nov 16. PMID: 21081905;  PMCID: PMC3034846.
+
+
+36. Lawler K, Mosepele M, Seloilwe E, Ratcliffe S, Steele K, Nthobatsang R, Steenhoff A. Depression among HIV-positive individuals in Botswana: a behavioral  surveillance. AIDS Behav. 2011 Jan;15(1):204-8.�PMID: 19821023.
+
+
+37. Lawler K, Jeremiah K, Mosepele M, Ratcliffe SJ, Cherry C, Seloilwe E, Steenhoff AP. Neurobehavioral effects in HIV-positive individuals receiving highly active antiretroviral therapy (HAART) in Gaborone, Botswana. PLoS One. 2011 Feb 18;6(2):e17233. PMID: 21365002;  PMCID: PMC3041805.
+
+
+38. Lawler K, Mosepele M, Ratcliffe S, Seloilwe E, Steele K, Nthobatsang R, Steenhoff A. Neurocognitive impairment among HIV-positive individuals in Botswana: a pilot study. J Int AIDS Soc. 2010 Apr 20;13:15. PMID: 20406460;  PMCID: PMC2876070.
+
+
+39. Li C, Li H. VARIABLE SELECTION AND REGRESSION ANALYSIS FOR GRAPH-STRUCTURED COVARIATES WITH AN APPLICATION TO GENOMICS. Ann Appl Stat. 2010 Sep 1;4(3):1498-1516. PubMed PMID: 22916087; PubMed Central PMCID: PMC3423227.
+
+
+40. Li H, Lasaro MO, Jia B, Lin SW, Haut LH, High KA, Ertl HC. Capsid-specific T-cell responses to natural infections with adeno-associated viruses in humans differ from those of nonhuman primates. Mol Ther. 2011 Nov;19(11):2021-30. Epub 2011 May 17. PMID: 21587208;  PMCID: PMC3222540.
+
+
+41. Loftin LM, Kienzle M, Yi Y, Collman RG. R5X4 HIV-1 coreceptor use in primary  target cells: implications for coreceptor entry blocking strategies. J Transl Med. 2011 Jan 27;9 Suppl 1:S3. �PMID: 21284902;  PMCID: PMC3105503.
+
+
+42. Loftin LM, Kienzle MF, Yi Y, Lee B, Lee FH, Gray L, Gorry PR, Collman RG. Constrained use of CCR5 on CD4+ lymphocytes by R5X4 HIV-efficiency of Env-CCR5 interactions and low CCR5 expression determine a range of restricted CCR5-mediated entry. Virology. 2010 Jun 20;402(1):135-48. Epub 2010 Apr 9. PMID: 20381825; PubMed Central PMCID: PMC2872044.
+
+
+43. Makedonas G, Hutnick N, Haney D, Amick AC, Gardner J, Cosma G, Hersperger AR, Dolfi D, Wherry EJ, Ferrari G, Betts MR. Perforin and IL-2 upregulation define qualitative differences among highly functional virus-specific human CD8 T cells. PLoS Pathog. 2010 Mar 5;6(3):e1000798.  PMID: 20221423;  PMCID: PMC2832688.
+
+
+44. Merlin JS, Cen L, Praestgaard A, Turner M, Obando A, Alpert C, Woolston S, Casarett D, Kostman J, Gross R, Frank I. Pain and physical and psychological symptoms in ambulatory HIV patients in the current treatment era. J Pain Symptom  Manage. 2012 Mar;43(3):638-45. Epub 2011  Nov 23. PMID: 22115794.
+
+
+45. Minot S, Grunberg S, Wu GD, Lewis JD, Bushman FD. Hypervariable loci in the human gut virome. Proc Natl Acad Sci U S A. 2012 Mar 6;109(10):3962-6. Epub 2012 Feb 21. PMID: 22355105;   PMCID: PMC3309749.
+
+
+46. Minot S, Sinha R, Chen J, Li H, Keilbaugh SA, Wu GD, Lewis JD, Bushman FD. The human gut virome: inter-individual variation and dynamic response to diet. Genome Res. 2011 Oct;21(10):1616-25. Epub 2011 Aug 31. PMID: 21880779;  PMCID: PMC3202279.
+
+
+47. Moore RL, de Schaetzen V, Joseph M, Lee IA, Miller-Monthrope Y, Phelps BR, Lekalake SS, Ratcliffe SJ, Nguyen H, He Q, Rady P, Tyring S, Kovarik CL. Acquired epidermodysplasia verruciformis syndrome in HIV-infected pediatric patients: prospective treatment trial with topical glycolic acid and human papillomavirus genotype characterization. Arch Dermatol. 2012 Jan;148(1):128-30. Epub 2011 Sep 19. PMID: 21931014.
+
+
+48. Mukherjee R, Plesa G, Sherrill-Mix S, Richardson MW, Riley JL, Bushman FD. HIV sequence variation associated with env antisense adoptive T-cell therapy in the hNSG mouse model. Mol Ther. 2010 Apr;18(4):803-11.�Epub 2010 Jan 26. PMID: 20104212;  PMCID: PMC2862538.
+
+
+49. Nachega JB, Marconi VC, van Zyl GU, Gardner EM, Preiser W, Hong SY, Mills EJ, Gross R. HIV treatment adherence, drug resistance, virologic failure: evolving concepts. Infect Disord Drug Targets. 2011 Apr;11(2):167-74. Review. PubMed PMID: 21406048.
+
+
+50. O'Leary A, Jemmott JB 3rd, Jemmott LS, Bellamy S, Ngwane Z, Icard L, Gueits L. Moderation and mediation of an effective HIV risk-reduction intervention for South African adolescents. Ann Behav Med. 2012 Oct;44(2):181-91. PMID: 22618963.
+
+
+51. Ortiz AM, Klatt NR, Li B, Yi Y, Tabb B, Hao XP, Sternberg L, Lawson B, Carnathan PM, Cramer EM, Engram JC, Little DM, Ryzhova E, Gonzalez-Scarano F, Paiardini M, Ansari AA, Ratcliffe S, Else JG, Brenchley JM, Collman RG, Estes JD, Derdeyn CA, Silvestri G. Depletion of CD4⁺ T cells abrogates post-peak decline of viremia in SIV-infected rhesus macaques. J Clin Invest. 2011 Nov;121(11):4433-45.� Epub 2011 Oct 17. PMID: 22005304;  PMCID: PMC3204830.
+
+
+52. Pfaff JM, Wilen CB, Harrison JE, Demarest JF, Lee B, Doms RW, Tilton JC. HIV-1 resistance to CCR5 antagonists associated with highly efficient use of CCR5 and altered tropism on primary CD4+ T cells. J Virol. 2010 Jul;84(13):6505-14.� Epub 2010 Apr 21. PMID: 20410277; PubMed Central PMCID: PMC2903254.
+
+
+53. Riddick NE, Hermann EA, Loftin LM, Elliott ST, Wey WC, Cervasi B, Taaffe J, Engram JC, Li B, Else JG, Li Y, Hahn BH, Derdeyn CA, Sodora DL, Apetrei C, Paiardini M, Silvestri G, Collman RG. A novel CCR5 mutation common in sooty mangabeys reveals SIVsmm infection of CCR5-null natural hosts and efficient alternative coreceptor use in vivo. PLoS Pathog. 2010 Aug 26;6(8):e1001064. PMID: 20865163;  PMCID: PMC2928783.
+
+
+54. Santra S, Sun Y, Korioth-Schmitz B, Fitzgerald J, Charbonneau C, Santos G, Seaman MS, Ratcliffe SJ, Montefiori DC, Nabel GJ, Ertl HC, Letvin NL. Heterologous prime/boost immunizations of rhesus monkeys using chimpanzee adenovirus vectors. Vaccine. 2009 Sep 25;27(42):5837-45. Epub 2009 Aug 4. PMID: 19660588; PubMed Central PMCID: PMC2955883.
+
+
+55. Schreiber CA, Whittington S, Cen L, Maslankowski L. Good intentions: risk factors for unintended pregnancies in the US cohort of a microbicide trial. Contraception. 2011 Jan;83(1):74-81.�Epub 2010 Aug 5. PMID: 21134507.
+
+
+56. Schreiber CA, Ratcliffe SJ, Barnhart KT. A randomized controlled trial of the effect of advanced supply of emergency contraception in postpartum teens: a feasibility study. Contraception. 2010 May;81(5):435-40. Epub 2010 Feb 10. PMID: 20399951.
+
+
+57. Steele KT, Steenhoff AP, Newcomb CW, Rantleru T, Nthobatsang R, Lesetedi G, Bellamy SL, Nachega JB, Gross R, Bisson GP. Early mortality and AIDS progression  despite high initial antiretroviral therapy adherence and virologic suppression in Botswana. PLoS One. 2011;6(6):e20010. Epub  2011 Jun 15. PMID: 21698283;  PMCID: PMC3115945.
+
+
+58. Szep Z, Guaraldi G, Shah SS, Lo Re V 3rd, Ratcliffe SJ, Orlando G, Carli F, Rossi R, Rochira V, Tebas P. Vitamin D deficiency is associated with type 2 diabetes mellitus in HIV infection. AIDS. 2011 Feb 20;25(4):525-9. �PMID: 21178753;  PMCID: PMC3366629.
+
+
+59. Taaffe J, Chahroudi A, Engram J, Sumpter B, Meeker T, Ratcliffe S, Paiardini  M, Else J, Silvestri G. A five-year longitudinal analysis of sooty mangabeys naturally infected with simian immunodeficiency virus reveals a slow but progressive decline in CD4+ T-cell count whose magnitude is not predicted by viral load or immune activation. J Virol. 2010 Jun;84(11):5476-84. Epub 2010 Mar 24. PMID: 20335252;  PMCID: PMC2876601.
+
+
+60. Taaffe JE, Bosinger SE, Del Prete GQ, Else JG, Ratcliffe S, Ward CD, Migone T, Paiardini M, Silvestri G. CCR5 blockade is well tolerated and induces changes  in the tissue distribution of CCR5+ and CD25+ T cells in healthy, SIV-uninfected  rhesus macaques. J Med Primatol. 2012 Feb;41(1):24-42. Epub 2011 Nov 14. PMID: 22077380; PubMed Central PMCID: PMC3265632.
+
+
+61. Tatsis N, Lasaro MO, Lin SW, Haut LH, Xiang ZQ, Zhou D, Dimenna L, Li H, Bian A, Abdulla S, Li Y, Giles-Davis W, Engram J, Ratcliffe SJ, Silvestri G, Ertl HC,  Betts MR. Adenovirus vector-induced immune responses in nonhuman primates: responses to prime boost regimens. J Immunol. 2009 May 15;182(10):6587-99. PMID: 19414814;  PMCID: PMC2711537.
+
+
+62. Thompson MA, Mugavero MJ, Amico KR, Cargill VA, Chang LW, Gross R, Orrell C,  Altice FL, Bangsberg DR, Bartlett JG, Beckwith CG, Dowshen N, Gordon CM, Horn T,  Kumar P, Scott JD, Stirratt MJ, Remien RH, Simoni JM, Nachega JB. Guidelines for  improving entry into and retention in care and antiretroviral adherence for persons with HIV: evidence-based recommendations from an International Association of Physicians in AIDS Care panel. Ann Intern Med. 2012 Jun 5;156(11):817-33, W-284, W-285, W-286, W-287, W-288, W-289, W-290, W-291, W-292,  W-293, W-294. Epub 2012 Mar 5. PMID: 22393036.
+
+
+63. Tilton JC, Wilen CB, Didigu CA, Sinha R, Harrison JE, Agrawal-Gamse C, Henning EA, Bushman FD, Martin JN, Deeks SG, Doms RW. A maraviroc-resistant HIV-1 with narrow cross-resistance to other CCR5 antagonists depends on both N-terminal and extracellular loop domains of drug-bound CCR5. J Virol. 2010 Oct;84(20):10863-76. Epub 2010 Aug 11. PMID: 20702642;  PMCID: PMC2950574.
+
+
+64. van Montfrans JM, Hoepelman AI, Otto S, van Gijn M, van de Corput L, de Weger RA, Monaco-Shawver L, Banerjee PP, Sanders EA, Jol-van der Zijde CM, Betts MR, Orange JS, Bloem AC, Tesselaar K. CD27 deficiency is associated with combined immunodeficiency and persistent symptomatic EBV viremia. J Allergy Clin Immunol.  2012 Mar;129(3):787-793.e6. Epub 2011 Dec 24. PMID: 22197273;  PMCID: PMC3294016.
+
+
+65. Wu GD, Lewis JD, Hoffmann C, Chen YY, Knight R, Bittinger K, Hwang J, Chen J, Berkowsky R, Nessel L, Li H, Bushman FD. Sampling and pyrosequencing methods for  characterizing bacterial communities in the human gut using 16S sequence tags. BMC Microbiol. 2010 Jul 30;10:206. Epub 2012 Dec 11.  PMID: 23229092;  PMCID: PMC3589160.  
+
+
